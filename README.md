@@ -19,9 +19,10 @@ directory.
 Run `java -jar MusicShooter.jar` on the _command line_ to start the game.
 
 ## Where are the levels?
-I planned to include levels with specific notes (possibly forming songs) that also travel in other directions (*e.g. 
-downwards or irregular paths*), lives and the possibility of a game over. I haven't gotten around to implementing that
-yet. 
+I planned to include levels with specific notes (possibly forming songs) that also travel in other directions (_e.g. 
+downwards or irregular paths_), lives that you can lose by touching notes or not hitting them before they
+leave the screen and the possibility of a game over. I haven't gotten around to implementing that
+yet. If you feel up to it, go ahead!
 
 ## It's not working!!
 The game is based on the Java Midi Interface from the Java Sound API. If your computer doesn't support MIDI, it won't
